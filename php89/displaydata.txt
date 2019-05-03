@@ -1,0 +1,52 @@
+TO Display OUTPUT in PHP using Multiple print():-
+
+1 echo:-
+
+it is used to print multiple statements using single line.we can use comma seprator in echo function.
+
+echo statement1,statement2,statement3;
+
+<?php
+
+echo "How r u?"," I am fine <br>","I am not fine".
+
+?>
+
+
+
+2 print:-
+
+we can print single statement using print() in PHP.
+
+it not support comma separator.
+
+
+3 Sprintf():-
+ it is return type function which return String type data to show value.
+
+$var = sprintf("%.2f",21.34555555);
+echo $var; 
+
+it is similar to printf() in PHP
+  
+
+4 Printf():-
+
+  to display data using format.
+
+   
+
+    echo 12.3444444;
+
+    print 12.3444444;
+
+    printf("%.2f",12.3444444);  12.34
+     printf("%d",12.3444444);  12
+
+...............................................................................................................
+
+
+
+
+
+

@@ -1,0 +1,52 @@
+Data type Concept in PHP:-
+
+
+it is used to provide pattern of data and size of data in memory.
+
+PHP data will be managed by assigned data.
+
+$a=10;  //10 is the integer type
+
+$a =12.3;// 12.3 is the float type hence variable datatype will be float.
+
+
+Type of Datatype:-
+
+1 Simple Datatype:-
+
+  this datatype contain single element at a time.
+
+   1.1  Int:-   only for integer value
+   1.2  float :- only for float valaue
+   1.3  boolean:- for true and false value
+   1.4   String :-  for group char
+                          $a = 'hello';
+                          $a = "hello";
+   
+2 Complex Datatype:-
+     this datatype contain multiple elements at a time
+
+      2.1  Array
+
+      2.2 Super Global Object
+             $_POST[] 
+             $_REQUEST[]
+             $_GET[]
+             $_SERVER
+              $_SESSION
+              $_COOKIE
+              
+      2.3  Resource
+
+        
+Datatype function of PHP:-
+
+var_dump():-  it is used to provide internal representation of data type.
+
+gettype():-  this method provide datatype of particular variable
+
+
+settype():-  this method is used to set datatype from one type to another.
+
+
+

@@ -1,0 +1,74 @@
+Variable Defination PHP:-
+
+variable is used to store data using multiple data type in PHP.
+variable value can be override at program inside and outside.
+PHP variable will be declared by $symbol
+
+$a=10;
+variable datatype is managed by assigned data .
+
+$a=10.2 ;  //float
+
+$a = "Hello";
+
+variable must be declared by alphabets  .we should never use keyword,special char,numeric char and whilte space in variable declaration.
+
+
+
+$123='a';  //invalid syntax
+
+$xyz = 123 //valid syntax
+$@$ = 'a'; //invalid
+
+
+$mobile number="123"; //invalid
+
+
+
+PHP variable should be declared in lower case.
+
+type of variable :-
+
+1 local variable:-  inside function declaration of variable
+
+2 global variable:-  outside function declaration .if we want to declare global varible inside function than we can use global keyword.
+
+
+3 Super Global variable:-
+
+    $_POST[]
+    $_GET[]
+    $_Server
+    $_ENV
+    $_REQUEST 
+    $_FILE
+
+
+
+4  static variable or class type variable
+
+     instance variable
+
+........................................................................................................
+
+Constant Concept in PHP:-
+
+if we want to declare fixed value in complete program in PHP than we can create constant.
+
+<?php
+
+define('pi',3.14);
+echo pi;
+
+define('a',10)
+define('b',20)
+echo a+b;  
+
+?>
+
+
+
+ 
+
+
+

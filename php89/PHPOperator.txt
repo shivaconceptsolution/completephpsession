@@ -1,0 +1,75 @@
+Operator Concept in PHP:-
+...........................................................................................
+
+it is used to perform operation based on operand(variable,constant)
+
+type of operator:-
+
+1 Unary Operator:-
+  this operator will work using single operand
+   
+   increment  :-  it is used to increase the value by one
+    $a++   post increment:- first complete other operation than increase or decrease value
+    ++$a   pre increment:- first increase value after that perform other operation
+
+
+2 binary operator:-
+this operator will work using minimum two operand.
+
+2.1 Arithmetic :-   +,-,*,/,%
+
+2.2 conditional  :-  <,>,<=,>=
+
+2.3  Assignment :-  
+
+ simple    =    $a=2
+
+complex    +=,-=,*=,/=,%=
+
+$a*=3;  //$a=$a*3
+
+$a%=2;  //$a=$a%2
+
+
+2.4 Logical Operator:-
+
+  && :- it return true when all condition will be true
+
+         if (a>3  && a<9 )
+
+  ||  :- if only one statement will be true than or operator will return true value
+       if(a>3 || a<9)
+
+
+! :-  it just opposite statement .it will convert true statement to false statement and false statement to true statement.
+
+2.5 Comparision Operator
+
+  ==  it will return true when conditon will equall
+...........................................................................................................
+
+2.6 Concatenation operator:-
+
+   it is used to concatenate values.
+
+    .  "hello"."world"  = helloworld
+
+3 Ternary Operator:-
+
+it is used to solve condition based on single line statement.
+
+Syntax:-
+
+(Condition)?true:false;
+
+
+
+
+
+
+
+
+
+
+
+   decrement :-  it is used to decrease the value by one

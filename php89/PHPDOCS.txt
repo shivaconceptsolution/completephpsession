@@ -1,0 +1,154 @@
+what is PHP?
+.........................................................................
+it is server side script which is used to create dynamic web application.
+
+server side means the script which will be executed by web server and access by web browser.
+
+in case of PHP we will use Apache web server to execute server side code.
+
+.........................................................................................................
+
+PHP stand for Hypertext preprocessor.
+
+Hypertext means tag based predefine text  
+
+preprocessor means pre-compile features of library.
+
+intially PHP was known as Personal Home page because it was the name of first web page of PHP.
+......................................................................................................
+
+PHP was developed in 1995 by rasmous lendrof to create dynamic web page .
+
+
+........................................................................................................
+
+PHP Software tools:-
+..............................................................................................
+
+XAMPP:- 
+x ---> CROSS PLATFORM
+
+A --->  Apache  (Web Server)
+
+M ---> MYSQL (Database Server)
+
+P ---> PHP
+
+P ---> Pearl
+
+
+WAMP
+
+W -----> Windows
+
+A ----->  Apache
+
+M -----> MYSQL
+
+P -----> PHP
+
+
+
+LAMP -----> 
+
+L -----> LINUX
+
+A -----> Apache
+
+M -----> MYSQL
+
+P ------> PHP
+
+
+MAMP
+
+M ----> MAC
+
+A ------> Apache
+
+M -------> MYSQL|MariaDB
+
+P --------> PHP
+
+.................................................................................................
+
+Specific Features of PHP:-
+
+1 Best in performance:-  PHP Script performance is best as compare to other script.because it use less code and provide more features.
+
+2 Platform Independent:-  PHP environment can be created in any operating System.
+hence PHP software can be easily installed in MAC,Windows,Linux and Solaris operating System.
+
+
+3 Simple Code Structure:-
+
+PHP code structure is too simple as compare to other languages  hence developer can easily learn PHP script.
+
+3.1  no need to write datatype
+
+3.2  no need to write any header file
+
+3.3  semi case sensitive
+
+3.4 User friendly error message
+
+
+4 Open Source and Free Source:-
+
+   PHP technology is open source and free source .it can be easily implement without taking the licence and we can get all library,framework,plugin and code freely in internet.
+
+
+5 Framework Support:-
+
+  PHP provide readymade framework for distributed,ERP and large web application.
+all Framework of PHP is free.
+
+  5.1  Codeigniter
+
+ 5.2   Laravel
+
+ 5.3    CakePHP
+
+
+6 CMS support:-
+
+PHP provide readymade CMS(Content Management System) .without writing the code you can develop application using PHP CMS.
+
+6.l   Wordpress
+
+6.2   Joomla
+
+6.3   Drupal
+
+6.4   Magento
+
+............................................................................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,68 @@
+sWITCH STATEMENT IN php:-
+..................................................................................
+
+IT IS USED TO CHOOSE PARTICULAR OPTION IN A GROUP OF OPTIONS.
+
+SWITCH STATEMENT PROVIDE COMBINATION OF CASE STATEMENT.
+
+SWITCH(OPTION)
+{
+     CASE OPTIONVALUE:
+      STATEMENT;
+      BREAK;
+     ......
+     .....
+
+      Default:
+       statement;
+       break;
+            
+     }
+
+option==optionvalue
+
+WAP to check vowel and consonent?
+
+Nested Switch:-  if we write more than one switch statement in program using nested sequnce than it is called nested switch block.
+
+
+SWITCH(OPTION)
+{
+     CASE OPTIONVALUE:
+      SWITCH(OPTION)
+      {
+              case optionvalue:
+               statements;
+               break;
+              default:
+               statements;
+               break; 
+
+      }
+      break;
+
+      Default:
+       SWITCH(OPTION)
+      {
+              case optionvalue:
+               statements;
+               break;
+              default:
+               statements;
+               break; 
+
+      }
+     break;
+            
+     }
+
+
+
+WAP to check greatest number?
+
+$a>$b : true
+
+
+
+
+
