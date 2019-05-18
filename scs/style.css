@@ -1,0 +1,78 @@
+*
+{
+	margin: 0px;
+}
+header
+{
+	height: 100px;
+	background-color: blue;
+	color:white;
+}
+nav
+{
+	padding-top: 20px;
+}
+nav ul li
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+nav ul li a
+{
+	color:white;
+	text-decoration: none;
+}
+
+section
+{
+     height: 550px;
+     background-color: gray;
+
+}
+footer
+{
+	height: 50px;
+	background-color: blue;
+
+}
+
+#part1
+{
+   height: 400px;
+   margin-top: 20px;
+   width:50%;
+   border:1px solid red;
+   float: left;
+}
+#part2
+{
+   height: 400px;
+   margin-top: 20px;
+   width:49%;
+   border:1px solid red;
+   float: left;
+}
+#part3
+{
+	clear: left;
+    padding-top: 30px;
+
+
+}
+h1
+{
+	background-color: red;
+	color:white;
+	text-align: center;
+}
+
+.gal
+{
+
+	width: 200px;
+	height:200px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border:1px solid red;
+}
